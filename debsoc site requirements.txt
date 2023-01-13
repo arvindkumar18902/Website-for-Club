@@ -1,0 +1,61 @@
+Debsoc Website
+
+things to do:
+
+Master Page 
+
+Nav Bar -->    inclusive of logo, home, mock, equity, Debate Material
+					     |                                |
+                                          different page it has to go   different page it has to go
+
+Home --> Will just have some basic inforamation about the soc
+
+Current members of the board --> Photo and their position and basic idea of what they do
+
+Equity --> A basic idea of what equity does along with the equity form. 
+
+Footer --> includes a way to reach instagram.
+
+
+
+Mock Page  --> main idea of the logo is to lead you back to the master page
+ 
+logo on the top left of the page
+
+To maintain a date at the top right of the page
+ 
+Two buttons namely BP and AP along with time input --> three of the same section
+
+When BP selected  OG OO CG CO ke liye 2 boxes and adjes 5 boxes 
+When AP selected  Gov and Opp ke liye 3 boxes and adjes 5 boxes 
+
+THING TO NOTE THIS HAS TO RESET EVERY DAY SO RESEARCH ON THAT.
+
+
+Debate Material --> main idea of the logo is to lead you back to the master 
+
+nav bar --> logo, training, debates, sessions.
+
+youtube videos for various positions --> each position can have card like videos 
+
+youtube videos for debates  --> carousel
+
+recordings for sessions 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+#home {
+    background-color: #0047AB;
+    margin: 0;
+    background-size: 400% 400%;
+    color: #fff;
+}
